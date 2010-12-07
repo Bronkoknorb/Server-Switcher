@@ -1,0 +1,8 @@
+<!ENTITY label.project "Наименование на проект:">
+<!ENTITY label.development.server "Работен сървър:">
+<!ENTITY textbox.localhost "localhost">
+<!ENTITY label.live.server "Официален сървър:">
+<!ENTITY label.server "Сървър">
+<!ENTITY label.port "Порт">
+<!ENTITY label.server.path "Път">
+<!ENTITY label.server.path.optional "Path (по желание)">

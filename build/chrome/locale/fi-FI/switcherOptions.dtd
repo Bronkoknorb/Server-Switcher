@@ -1,0 +1,7 @@
+<!ENTITY caption.server "Palvelin">
+<!ENTITY listheader.project "Project">
+<!ENTITY listheader.development.server "Kehitys-palvelin">
+<!ENTITY listheader.live.server "Live-Palvelin">
+<!ENTITY button.add "Lisää">
+<!ENTITY button.edit "Muokkaa">
+<!ENTITY button.remove "Poista">

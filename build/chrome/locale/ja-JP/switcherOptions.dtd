@@ -1,0 +1,7 @@
+<!ENTITY caption.server "プロジェクト">
+<!ENTITY listheader.project "プロジェクト">
+<!ENTITY listheader.development.server "開発サーバ">
+<!ENTITY listheader.live.server "本番サーバ">
+<!ENTITY button.add "新規プロジェクト">
+<!ENTITY button.edit "プロジェクト編集">
+<!ENTITY button.remove "プロジェクト除去">

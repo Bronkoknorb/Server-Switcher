@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://mozapps/skin/pref/pref.css" type="text/css"?>
+<!DOCTYPE dialog SYSTEM "chrome://switcher/locale/switcherOptions.dtd" >
+
+
+<dialog buttons="accept" id="switcher-options-dialog" title="Server Switcher" width="500" height="350" ondialogaccept="switcher_saveOptions()" onload="switcher_initializeOptions()" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+  <script type="application/x-javascript" src="chrome://switcher/content/switcherOptions.js" />
+
+    <groupbox>
+        <caption label="&caption.server;" />
+        <hbox align="top">
+            <listbox flex="1" id="switcher-listbox" onselect="parent.switcher_listBoxSelected()">
+                <listhead>
+                    <listheader label="&listheader.project;" />
+                    <listheader label="&listheader.development.server;" />
+                    <listheader label="&listheader.live.server;" />
+                </listhead>
+                <listcols>
+                    <listcol flex="1" />
+                    <listcol flex="1" />
+                    <listcol flex="1" />
+                </listcols>
+            </listbox>
+        </hbox>
+        <hbox>
+            <button label="&button.add;" oncommand="parent.switcher_addProject()" />
+            <button id="switcher-edit" label="&button.edit;" oncommand="parent.switcher_editProject()" />
+            <button id="switcher-delete" label="&button.remove;" oncommand="parent.switcher_deleteProject()" />
+        </hbox>
+    </groupbox>
+</dialog>

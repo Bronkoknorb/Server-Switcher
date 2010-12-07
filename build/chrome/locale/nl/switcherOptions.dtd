@@ -1,0 +1,7 @@
+<!ENTITY caption.server "Projecten">
+<!ENTITY listheader.project "Project">
+<!ENTITY listheader.development.server "Ontwikkelingsserver">
+<!ENTITY listheader.live.server "Liveserver">
+<!ENTITY button.add "Nieuw project">
+<!ENTITY button.edit "Project bewerken">
+<!ENTITY button.remove "Project verwijderen">

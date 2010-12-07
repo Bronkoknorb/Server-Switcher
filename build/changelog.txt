@@ -1,0 +1,35 @@
+Server Switcher 0.5.2 (December 6, 2010)
+    * Bug fix: Stretched icons on Windows
+
+Server Switcher 0.5.1 (November 24, 2010)
+    * Firefox 4 compatibility
+    * more translations
+
+Server Switcher 0.5 (April 5, 2008)
+    * New backend: SQLite-Database
+    * Support for ftp and notes URL schemes
+    * Firefox 3 compatibility
+
+Server Switcher 0.4 (October 04, 2006)
+    * Localization: English, French, German, Croatian, Dutch, Italian, Spanish, Portuguese, Ukrainian
+    * Firefox 2 compatibility
+    * Bugfixes
+
+Server Switcher 0.3 (August 17, 2006)
+    Changes:
+    * Keyboard shortcut: Ctrl+Shift+X
+    * Localized: English, French (Thanks to Jean-Bernard Marcon), German
+    * Bugfixes
+
+Server Switcher 0.2b (May 04, 2006)
+    New Features:
+    * Support for ports (e.g. localhost:81).
+    * Support for subdirectories (e.g. localhost/sitename).
+    * Support for HTTPS (e.g. https://www.yoursite.com)
+    * Support for local files (e.g. file:///D:/www)
+    * Open local/remote server in a new tab with middle click or CTRL+leftclick.
+    * Support for Flock.
+    * No more browser restarts after adding new servers.
+
+Server Switcher 0.1b (April 19, 2006)
+    * First public version

@@ -1,0 +1,25 @@
+content	switcher  chrome/content/
+
+locale  switcher  bg-BG chrome/locale/bg-BG/
+locale  switcher  da-DK chrome/locale/da-DK/
+locale	switcher  de chrome/locale/de/
+locale	switcher  en-US chrome/locale/en-US/
+locale	switcher  es-ES chrome/locale/es-ES/
+locale  switcher  fi-FI chrome/locale/fi-FI/
+locale	switcher  fr chrome/locale/fr/
+locale	switcher  hr-HR chrome/locale/hr-HR/
+locale	switcher  it-IT chrome/locale/it-IT/
+locale  switcher  ja-JP chrome/locale/ja-JP/
+locale	switcher  nl chrome/locale/nl/
+locale  switcher  pl-PL chrome/locale/pl-PL/
+locale  switcher  pt-BR chrome/locale/pt-BR/
+locale  switcher  ru-RU chrome/locale/ru-RU/
+locale  switcher  th-TH chrome/locale/th-TH/
+locale  switcher  tr-TR chrome/locale/tr-TR/
+locale  switcher  uk-UA chrome/locale/uk-UA/
+locale  switcher  zh-CN chrome/locale/zh-CN/
+locale  switcher  zh-TW chrome/locale/zh-TW/
+
+overlay	chrome://browser/content/browser.xul	chrome://switcher/content/switcherOverlay.xul
+
+skin	switcher	classic/1.0	chrome/skin/classic/

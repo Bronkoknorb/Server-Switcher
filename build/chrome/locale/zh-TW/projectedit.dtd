@@ -1,0 +1,8 @@
+<!ENTITY label.project "專業名稱:">
+<!ENTITY label.development.server "開發伺服器:">
+<!ENTITY textbox.localhost "本機">
+<!ENTITY label.live.server "線上伺服器:">
+<!ENTITY label.server "伺服器">
+<!ENTITY label.port "埠">
+<!ENTITY label.server.path "路徑">
+<!ENTITY label.server.path.optional "路徑 (非必須)">

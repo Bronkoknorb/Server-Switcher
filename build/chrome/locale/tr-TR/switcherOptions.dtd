@@ -1,0 +1,7 @@
+<!ENTITY caption.server "Sunucu">
+<!ENTITY listheader.project "Proje">
+<!ENTITY listheader.development.server "Geliştirme Yapılan Sunucu">
+<!ENTITY listheader.live.server "Yayın Yapılan Sunucu">
+<!ENTITY button.add "Ekle">
+<!ENTITY button.edit "Düzenle">
+<!ENTITY button.remove "Kaldır">

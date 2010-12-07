@@ -1,0 +1,7 @@
+<!ENTITY caption.server "Progetti">
+<!ENTITY listheader.project "Progetto">
+<!ENTITY listheader.development.server "Server di sviluppo">
+<!ENTITY listheader.live.server "Server di produzione">
+<!ENTITY button.add "Aggiungi">
+<!ENTITY button.edit "Modifica">
+<!ENTITY button.remove "Elimina">

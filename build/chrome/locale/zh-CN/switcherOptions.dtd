@@ -1,0 +1,7 @@
+<!ENTITY caption.server "项目">
+<!ENTITY listheader.project "项目">
+<!ENTITY listheader.development.server "开发服务器">
+<!ENTITY listheader.live.server "主服务器">
+<!ENTITY button.add "新建项目">
+<!ENTITY button.edit "编辑项目">
+<!ENTITY button.remove "删除项目">

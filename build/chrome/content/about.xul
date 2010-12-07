@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://switcher/skin/hceswitch.css" type="text/css"?>
+
+<!DOCTYPE window SYSTEM "chrome://switcher/locale/about.dtd" >
+
+<window class="dialog" title="&server.switcher.about;" orient="vertical" autostretch="always" onload="sizeToContent()" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<!-- Original template by Jed Brown -->
+
+
+<groupbox align="center" orient="horizontal">
+<vbox>
+  <text value="Server Switcher" style="font-weight: bold; font-size: x-large;" />
+  <separator class="thin" />
+  <text value="&text.created.by;" style="font-weight: bold;" />
+  <text value="Hermann Czedik-Eysenberg" class="url" onclick="window.open('http://hermann.czedik.net')" />
+  <separator class="thin" />
+  <text value="&text.translator;" style="font-weight: bold;" />
+  <text value="AlleyKat / Finn Sørensen, Стоян Димитров, " />
+  <text value="Risse, J.B Marcon (Goofy), Luana Di Muzio, " />
+  <text value="drry, markh, Wacław Jacek, Alberto Eidh, " />
+	<text value="Kenan Balamir, yfdyh000, Tang Kai Yiu (TKY) " />
+  <separator class="thin" />
+  <text value="&text.home.page;" style="font-weight: bold;" />
+  <text value="http://hermann.czedik.net/projekte/switcher/" style="text-decoration:underline;cursor:pointer" onclick="window.open('http://hermann.czedik.net/projekte/switcher/')" />
+  <separator class="thin" />
+</vbox>
+<spring flex="1" />
+<image src="chrome://switcher/skin/icon.png" />
+</groupbox>
+
+  <hbox>
+  <spacer flex="1" />
+   <button label="&button.close;" oncommand="window.close();" />
+  </hbox>
+
+</window>

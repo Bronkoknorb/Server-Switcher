@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://switcher/skin/hceswitch.css" type="text/css"?>
+
+<overlay id="ServerSwitcherOverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+  <script type="application/x-javascript" src="chrome://switcher/content/switcherOverlay.js"/>
+
+  <script type="application/x-javascript">
+    var ServerSwitcher = new SwitcherListener();
+    window.addEventListener("load", ServerSwitcher.Initialize, true);
+    window.addEventListener("unload", ServerSwitcher.Destroy, true);
+  </script>
+
+</overlay>

@@ -1,0 +1,12 @@
+* WICHTIG: Please move your handleEventWrapper method inside namespace on your next update. Thanks (von AMO-Reviewer)
+* Optionen in Tools-Menü (Extras) (DONE in not released version, see old/new_not-released, TODO: icon)
+* Beim Schließen der Optionen Icon-Anzeige neu laden
+* Richtiges Sub-Menü unter Optionen
+* Tastenkombination über Key-Element (wird dann richtig im Menü angezeigt)
+* Switchen über Wildcards z.B. *.local => *.com (schwierig)
+* Egal ob Server-Adresse mit oder ohne "www."
+* "*://" Protokoll, damit nur ein Projekt für http und https Server
+* Kompatibilität mit Chromifox Extreme Theme
+* Kompatibilität mit Mozilla Archive Format Extension
+* Switchen zwischen mehr als 2 Seiten
+* Gleiches Sub-Menü öffnet sich auch bei Rechts-Klick auf Icon (zeigt alle Server an, aktiver markiert (radio-menu), Default fett)

@@ -1,0 +1,7 @@
+<!ENTITY caption.server "Poslužitelj">
+<!ENTITY listheader.project "Project">
+<!ENTITY listheader.development.server "Razvojni poslužitelj">
+<!ENTITY listheader.live.server "Live-poslužitelj">
+<!ENTITY button.add "Dodaj">
+<!ENTITY button.edit "Uredi">
+<!ENTITY button.remove "Ukloni">

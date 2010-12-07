@@ -1,0 +1,20 @@
+#switcher_icon {
+  /*width: 16px;
+  height: 16px;*/
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 1px;
+  -moz-image-region: rect(0px, 16px, 16px, 0px);
+}
+
+#switcher_icon.devserver {
+  list-style-image: url('chrome://switcher/skin/devserver.png');
+}
+
+#switcher_icon.liveserver {
+  list-style-image: url('chrome://switcher/skin/liveserver.png');
+}
+
+#switcher_icon.notactive {
+  display: none;
+}

@@ -1,0 +1,8 @@
+<!ENTITY label.project "Nom du projet :">
+<!ENTITY label.development.server "Serveur de développement :">
+<!ENTITY textbox.localhost "localhost">
+<!ENTITY label.live.server "Serveur actif :">
+<!ENTITY label.server "Serveur">
+<!ENTITY label.port "Port">
+<!ENTITY label.server.path "Adresse">
+<!ENTITY label.server.path.optional "Adresse (facultative)">

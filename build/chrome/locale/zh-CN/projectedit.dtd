@@ -1,0 +1,8 @@
+<!ENTITY label.project "项目名称：">
+<!ENTITY label.development.server "开发服务器">
+<!ENTITY textbox.localhost "本机">
+<!ENTITY label.live.server "主服务器">
+<!ENTITY label.server "服务器">
+<!ENTITY label.port "端口">
+<!ENTITY label.server.path "路径">
+<!ENTITY label.server.path.optional "路径（可选）">

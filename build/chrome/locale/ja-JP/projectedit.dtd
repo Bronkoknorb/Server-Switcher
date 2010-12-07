@@ -1,0 +1,8 @@
+<!ENTITY label.project "プロジェクト名:">
+<!ENTITY label.development.server "開発サーバ:">
+<!ENTITY textbox.localhost "localhost">
+<!ENTITY label.live.server "本番サーバ:">
+<!ENTITY label.server "サーバ">
+<!ENTITY label.port "ポート">
+<!ENTITY label.server.path "パス">
+<!ENTITY label.server.path.optional "パス (任意)">

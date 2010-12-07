@@ -1,0 +1,7 @@
+<!ENTITY caption.server "Servidor">
+<!ENTITY listheader.project "Projeto">
+<!ENTITY listheader.development.server "Servidor de desenvolvimento">
+<!ENTITY listheader.live.server "Servidor para hospedagem">
+<!ENTITY button.add "Adicionar">
+<!ENTITY button.edit "Editar">
+<!ENTITY button.remove "Excluir">

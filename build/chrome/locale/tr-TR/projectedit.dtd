@@ -1,0 +1,8 @@
+<!ENTITY label.project "Proje Adı:">
+<!ENTITY label.development.server "Yerel sunucu:">
+<!ENTITY textbox.localhost "localhost">
+<!ENTITY label.live.server "Asıl Sunucu:">
+<!ENTITY label.server "Sunucu">
+<!ENTITY label.port "Port">
+<!ENTITY label.server.path "Yol">
+<!ENTITY label.server.path.optional "Yol (isteğe bağlı)">

@@ -1,0 +1,8 @@
+<!ENTITY label.project "Projektin nimi:">
+<!ENTITY label.development.server "Kehityspalvelin:">
+<!ENTITY textbox.localhost "paikkalinenisäntä(localhost)">
+<!ENTITY label.live.server "Oikea palvelin:">
+<!ENTITY label.server "Palvelin">
+<!ENTITY label.port "Portti">
+<!ENTITY label.server.path "Osoite">
+<!ENTITY label.server.path.optional "Osoite">
