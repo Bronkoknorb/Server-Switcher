@@ -1,7 +1,7 @@
 content	switcher  chrome/content/
 
 locale  switcher  bg-BG chrome/locale/bg-BG/
-locale  switcher  da-DK chrome/locale/da-DK/
+locale  switcher  da chrome/locale/da/
 locale	switcher  de chrome/locale/de/
 locale	switcher  en-US chrome/locale/en-US/
 locale	switcher  es-ES chrome/locale/es-ES/
@@ -11,9 +11,10 @@ locale	switcher  hr-HR chrome/locale/hr-HR/
 locale	switcher  it-IT chrome/locale/it-IT/
 locale  switcher  ja-JP chrome/locale/ja-JP/
 locale	switcher  nl chrome/locale/nl/
-locale  switcher  pl-PL chrome/locale/pl-PL/
+locale  switcher  pl chrome/locale/pl/
 locale  switcher  pt-BR chrome/locale/pt-BR/
 locale  switcher  ru-RU chrome/locale/ru-RU/
+locale  switcher  sv-SE chrome/locale/sv-SE/
 locale  switcher  th-TH chrome/locale/th-TH/
 locale  switcher  tr-TR chrome/locale/tr-TR/
 locale  switcher  uk-UA chrome/locale/uk-UA/

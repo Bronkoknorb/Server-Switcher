@@ -20,7 +20,8 @@
   <text value="AlleyKat / Finn Sørensen, Стоян Димитров, " />
   <text value="Risse, J.B Marcon (Goofy), Luana Di Muzio, " />
   <text value="drry, markh, Wacław Jacek, Alberto Eidh, " />
-	<text value="Kenan Balamir, yfdyh000, Tang Kai Yiu (TKY) " />
+  <text value="Kenan Balamir, yfdyh000, Tang Kai Yiu (TKY), " />
+  <text value="Mikael Hiort af Ornäs " />
   <separator class="thin" />
   <text value="&text.home.page;" style="font-weight: bold;" />
   <text value="http://hermann.czedik.net/projekte/switcher/" style="text-decoration:underline;cursor:pointer" onclick="window.open('http://hermann.czedik.net/projekte/switcher/')" />

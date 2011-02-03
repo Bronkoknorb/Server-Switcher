@@ -1,0 +1,7 @@
+<!ENTITY caption.server "Projekt">
+<!ENTITY listheader.project "Projekt">
+<!ENTITY listheader.development.server "Utvecklingsserver">
+<!ENTITY listheader.live.server "Live-server">
+<!ENTITY button.add "Nytt projekt">
+<!ENTITY button.edit "Redigera projekt">
+<!ENTITY button.remove "Ta bort projekt">

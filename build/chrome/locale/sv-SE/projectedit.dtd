@@ -1,0 +1,8 @@
+<!ENTITY label.project "Projektnamn:">
+<!ENTITY label.development.server "Utvecklingsserver:">
+<!ENTITY textbox.localhost "localhost">
+<!ENTITY label.live.server "Live-server:">
+<!ENTITY label.server "Server">
+<!ENTITY label.port "Port">
+<!ENTITY label.server.path "Sökväg">
+<!ENTITY label.server.path.optional "Sökväg (valfritt)">
