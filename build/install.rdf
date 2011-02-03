@@ -6,7 +6,7 @@
 
 		<em:id>{F7D360DC-B8F8-11DA-86BD-3EC8728786A0}</em:id>
 		<em:name>Server Switcher</em:name>
-		<em:version>0.5.2</em:version>
+		<em:version>0.5.3</em:version>
 		<em:description>Switch between your development and live servers.</em:description>
 		<em:creator>Hermann Czedik-Eysenberg</em:creator>
 		<em:homepageURL>http://hermann.czedik.net/</em:homepageURL>
