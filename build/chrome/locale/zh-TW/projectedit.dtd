@@ -1,4 +1,4 @@
-<!ENTITY label.project "專業名稱:">
+<!ENTITY label.project "專案名稱:">
 <!ENTITY label.development.server "開發伺服器:">
 <!ENTITY textbox.localhost "本機">
 <!ENTITY label.live.server "線上伺服器:">

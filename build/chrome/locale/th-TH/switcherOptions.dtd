@@ -1,7 +1,0 @@
-<!ENTITY caption.server "เซิร์ฟเวอร์">
-<!ENTITY listheader.project "Project">
-<!ENTITY listheader.development.server "เซิร์ฟเวอร์ัพัฒนา">
-<!ENTITY listheader.live.server "เซิร์ฟเวอร์จริง">
-<!ENTITY button.add "เพิ่ม">
-<!ENTITY button.edit "แก้ไข">
-<!ENTITY button.remove "ลบ">

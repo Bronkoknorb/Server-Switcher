@@ -2,6 +2,6 @@
 <!ENTITY listheader.project "Proje">
 <!ENTITY listheader.development.server "Geliştirme Yapılan Sunucu">
 <!ENTITY listheader.live.server "Yayın Yapılan Sunucu">
-<!ENTITY button.add "Ekle">
-<!ENTITY button.edit "Düzenle">
-<!ENTITY button.remove "Kaldır">
+<!ENTITY button.add "Yeni Proje">
+<!ENTITY button.edit "Projeyi Düzenle">
+<!ENTITY button.remove "Projeyi Sil">

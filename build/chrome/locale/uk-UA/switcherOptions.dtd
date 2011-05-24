@@ -1,7 +1,7 @@
-<!ENTITY caption.server "Projects">
-<!ENTITY listheader.project "Project">
-<!ENTITY listheader.development.server "Development-Server">
-<!ENTITY listheader.live.server "Live-Server">
-<!ENTITY button.add "New Project">
-<!ENTITY button.edit "Edit Project">
-<!ENTITY button.remove "Remove Project">
+<!ENTITY caption.server "Проекти">
+<!ENTITY listheader.project "Проект">
+<!ENTITY listheader.development.server "Робочий сервер">
+<!ENTITY listheader.live.server "Офіційний сервер">
+<!ENTITY button.add "Новий проект">
+<!ENTITY button.edit "Редагувати проект">
+<!ENTITY button.remove "Вилучити проект">

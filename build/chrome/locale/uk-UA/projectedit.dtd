@@ -1,8 +1,8 @@
-<!ENTITY label.project "Project name:">
-<!ENTITY label.development.server "Development server:">
-<!ENTITY textbox.localhost "localhost">
-<!ENTITY label.live.server "Live server:">
-<!ENTITY label.server "Server">
-<!ENTITY label.port "Port">
-<!ENTITY label.server.path "Path">
-<!ENTITY label.server.path.optional "Path (optional)">
+<!ENTITY label.project "Назва проекту:">
+<!ENTITY label.development.server "Робочий сервер:">
+<!ENTITY textbox.localhost "локальний хост">
+<!ENTITY label.live.server "Офіційний сервер:">
+<!ENTITY label.server "Сервер">
+<!ENTITY label.port "Порт">
+<!ENTITY label.server.path "Шлях">
+<!ENTITY label.server.path.optional "Шлях (необов'язковий)">

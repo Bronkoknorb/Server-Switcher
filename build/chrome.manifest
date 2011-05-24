@@ -8,14 +8,12 @@ locale	switcher  es-ES chrome/locale/es-ES/
 locale  switcher  fi-FI chrome/locale/fi-FI/
 locale	switcher  fr chrome/locale/fr/
 locale	switcher  hr-HR chrome/locale/hr-HR/
-locale	switcher  it-IT chrome/locale/it-IT/
+locale	switcher  it chrome/locale/it/
 locale  switcher  ja-JP chrome/locale/ja-JP/
 locale	switcher  nl chrome/locale/nl/
 locale  switcher  pl chrome/locale/pl/
 locale  switcher  pt-BR chrome/locale/pt-BR/
-locale  switcher  ru-RU chrome/locale/ru-RU/
 locale  switcher  sv-SE chrome/locale/sv-SE/
-locale  switcher  th-TH chrome/locale/th-TH/
 locale  switcher  tr-TR chrome/locale/tr-TR/
 locale  switcher  uk-UA chrome/locale/uk-UA/
 locale  switcher  zh-CN chrome/locale/zh-CN/
