@@ -1,5 +1,5 @@
-Server Switcher 0.5.3 (?)
-    * Added Swedish translation
+Server Switcher 0.5.3 (Mai 5, 2011)
+    * Updated translations
 
 Server Switcher 0.5.2 (December 6, 2010)
     * Bug fix: Stretched icons on Windows

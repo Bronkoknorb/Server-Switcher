@@ -7,24 +7,19 @@
 		<em:id>{F7D360DC-B8F8-11DA-86BD-3EC8728786A0}</em:id>
 		<em:name>Server Switcher</em:name>
 		<em:version>0.5.3</em:version>
+		<em:type>2</em:type><!-- extension -->
 		<em:description>Switch between your development and live servers.</em:description>
 		<em:creator>Hermann Czedik-Eysenberg</em:creator>
 		<em:homepageURL>http://hermann.czedik.net/</em:homepageURL>
 		<em:iconURL>chrome://switcher/skin/icon.png</em:iconURL>
 		<em:aboutURL>chrome://switcher/content/about.xul</em:aboutURL>
 		<em:optionsURL>chrome://switcher/content/switcherOptions.xul</em:optionsURL>
-		<em:file>
-			<Description about="urn:mozilla:extension:file:switcher">
-				<em:package>content/</em:package>
-				<em:skin>skin/classic/</em:skin>
-			</Description>
-		</em:file>
 
 		<em:targetApplication><!-- Firefox -->
 			<Description>
 				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
 				<em:minVersion>3.6</em:minVersion>
-				<em:maxVersion>4.0b7</em:maxVersion>
+				<em:maxVersion>5.*</em:maxVersion>
 			</Description>
 		</em:targetApplication>
 
