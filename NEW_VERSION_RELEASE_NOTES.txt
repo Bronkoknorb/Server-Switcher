@@ -6,6 +6,6 @@
 
 * create git tag, e.g. git tag v0.5.2
 
-* Upload to https://github.com/Bronkoknorb/Server-Switcher: git push origin master
+* Upload to https://github.com/Bronkoknorb/Server-Switcher: git push origin master --tags
 
 * put all approved releases in ../switcher_releases
