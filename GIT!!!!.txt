@@ -1,2 +1,0 @@
-letztes Tag erzeugt mit:
-git tag v0.5.2

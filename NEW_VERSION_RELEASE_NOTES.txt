@@ -1,0 +1,11 @@
+* Danger if you upload a new version to BabelZilla: Download all translations first AND add them to the chrome.manifest (otherwise all translators will be deleted)
+
+* update build/changelog.txt
+
+* update install.rdf: version, compatibility
+
+* create git tag, e.g. git tag v0.5.2
+
+* Upload to https://github.com/Bronkoknorb/Server-Switcher
+
+* put all approved releases in ../switcher_releases

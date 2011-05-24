@@ -1,1 +1,0 @@
-Alle Übersetzungen herunterladen, einspielen und in chrome.manifest eintragen! (sonst werden Übersetzer gelöscht)
