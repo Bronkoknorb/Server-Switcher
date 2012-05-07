@@ -8,3 +8,4 @@
 * Switching between more than two servers (e.g. staging server)
 * Sub menu that allows switching in Tools menu
 * The same sub menu also opens if you right click the icon (shows all servers, active marked (radio-menu), default bold)
+* Show state (dev,live) in the icon of tabs (favicon) (small sub-icon in corner)
