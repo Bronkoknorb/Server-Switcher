@@ -157,7 +157,7 @@ SwitcherListener.prototype.EnableDisplay = function(displayNode, toolTipText) {
  */
 SwitcherListener.prototype.handleEvent = function(event) {
   var newtab = false; // open in new tab?
-  if(event.button == 1 || (event.button == 0 && event.ctrlKey)) { // middle button or CTRL+leftclick
+  if(event.button == 1 || (event.button == 0 && (event.ctrlKey || event.metaKey))) { // middle button or CTRL+leftclick or CMD+leftclick
     newtab = true;
   }
   else if(event.button == 0 || (event.ctrlKey && event.shiftKey && event.charCode == '88')); // left mouse or key combo
