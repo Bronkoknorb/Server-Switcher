@@ -1,3 +1,6 @@
+Server Switcher 0.5.4 (March 3, 2014)
+    * New Tab support for Mac (CMD+leftclick) (Thanks to Bharadwaj!)
+
 Server Switcher 0.5.3 (Mai 5, 2011)
     * Updated translations
 
