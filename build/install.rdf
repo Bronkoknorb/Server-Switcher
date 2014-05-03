@@ -6,7 +6,7 @@
 
 		<em:id>{F7D360DC-B8F8-11DA-86BD-3EC8728786A0}</em:id>
 		<em:name>Server Switcher</em:name>
-		<em:version>0.5.3</em:version>
+		<em:version>0.5.4</em:version>
 		<em:type>2</em:type><!-- extension -->
 		<em:description>Switch between your development and live servers.</em:description>
 		<em:creator>Hermann Czedik-Eysenberg</em:creator>
@@ -19,7 +19,7 @@
 			<Description>
 				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
 				<em:minVersion>3.6</em:minVersion>
-				<em:maxVersion>5.*</em:maxVersion>
+				<em:maxVersion>29.*</em:maxVersion>
 			</Description>
 		</em:targetApplication>
 
