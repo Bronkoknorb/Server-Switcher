@@ -1,17 +1,18 @@
 Server Switcher
+===============
 
 The Firefox extension Server Switcher is a navigational help tool for web developers. It allows you to easily switch between sites on your development (hosting the temporary version you are currently working on) and live servers, so that you can immediately see the differences.
 
-Use case: When you are on http://localhost/page.html (your development server) and click the Server Switcher icon you will instantly be redirected to http://www.yoursite.com/page.html (your live server) and vice versa. The server names, here "localhost" and "www.yoursite.com", are of course configurable.
+Use case: When you are on `http://localhost/page.html` (your development server) and click the Server Switcher icon you will instantly be redirected to `http://www.yoursite.com/page.html` (your live server) and vice versa. The server names, here `localhost` and `www.yoursite.com`, are of course configurable.
 
 Features:
 * Icon in address bar (see screenshots).
 * You can create multiple projects (development/live-server pairs).
-* Keybord shortcut: Ctrl+Shift+X
-* Open local/remote server in a new tab with middle click or CTRL+leftclick.
+* Keybord shortcut: `Ctrl+Shift+X`
+* Open local/remote server in a new tab with middle click or `CTRL+leftclick`.
 * Support for subdirectories, different ports and local files.
 
 Hint: To export your settings to another installation, just copy the file serverswitcher.sqlite from your Firefox profile directory (see http://support.mozilla.com/en-us/kb/Profiles).
 
-http://hermann.czedik.net/projekte/switcher/
+http://hermann.czedik.net/projekte/switcher/  
 https://addons.mozilla.org/firefox/addon/server-switcher/
